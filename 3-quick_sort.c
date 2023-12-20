@@ -20,7 +20,7 @@ void swap_element(int *a, int *b)
 }
 
 /**
- * lomuto_partition - reorders a subset of an array of integers.
+ * lomuto_partition - Reorders a subset of an array of integers.
  * @array: array of integers.
  * @size: size of the array.
  * @left: starting index of subset
