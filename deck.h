@@ -4,7 +4,7 @@
 #include <stdlib.h>
 
 /**
- * enum kind_e - Enumeration of card suits.
+ * enum kind_e - enumeration of card suits.
  * @SPADE: Spades suit.
  * @HEART: Hearts suit.
  * @CLUB: Clubs suit.
