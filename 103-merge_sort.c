@@ -6,7 +6,7 @@ void merge_sort(int *array, size_t size);
 
 /**
  * merge_subarr - function sort integers
- * @subarr: sub array of array of ints
+ * @subarr: Sub array of array of ints
  * @buff: buffer to store subarray
  * @front: front index of array
  * @mid: middle index of array
