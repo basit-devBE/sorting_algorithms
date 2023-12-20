@@ -2,7 +2,7 @@
 
 /**
  * swap_element - func swap two integers in an array.
- * @a: The first integer
+ * @a: the first integer
  * @b: The second integer
  */
 void swap_element(int *a, int *b)
