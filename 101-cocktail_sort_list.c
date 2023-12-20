@@ -6,7 +6,7 @@ void cocktail_sort_list(list_tail **list);
 
 /**
  * swap_node_ahead - Swaps node
- * @list: pointer to head of doubly-linked list
+ * @list: Pointer to head of doubly-linked list
  * @tail: A pointer to the tail of the doubly-linked list
  * @shaker: pointer to swapping node
  */
