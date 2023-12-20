@@ -5,7 +5,7 @@ void hoare_sort(int *array, size_t size, int left, int right);
 void quick_sort_hoare(int *array, size_t size);
 
 /**
- * swap_element - swap integers in array
+ * swap_element - Swap integers in array
  * @a: fir integer
  * @b: 2nd integer
  */
