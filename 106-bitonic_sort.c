@@ -7,7 +7,7 @@ void bitonic_seq(int *array, size_t size, size_t start, size_t seq, char flow);
 void bitonic_sort(int *array, size_t size);
 
 /**
- * swap_element - swaps integers
+ * swap_element - Swaps integers
  * @a: 1st integer
  * @b: 2nd integer
  */
