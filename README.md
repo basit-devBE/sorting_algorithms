@@ -1,4 +1,4 @@
-# This is our solution to ALX SORTING ALGORITHM group project work
+# This is our solution to ALX SORTING ALGORITHM group Project work
 
 ## Overview
 
