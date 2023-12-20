@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * swap_element - func swaps two ints
+ * swap_element - Func swaps two ints
  * @a: 1st integer
  * @b: 2nd integer
  */
